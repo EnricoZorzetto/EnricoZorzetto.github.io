@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A Global Land Snow Scheme (GLASS) v1.0"
+excerpt: "A numerical snow model developed for implementation in Earth System Models <br/><img src='/images/glass_scheme.pdf'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This snow model was developed as a component of the NOAA Geophysical Fluid Dynamics Laboratory land model LM4.1, It includes a detailed description of snow vertical structure, including snow microphysics and effect of light-absorbing impurities within the snowpack.

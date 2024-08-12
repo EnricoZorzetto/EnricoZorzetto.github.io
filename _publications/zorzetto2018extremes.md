@@ -1,11 +1,11 @@
 ---
-title: "Extreme value metastatistical analysis of remotely sensed rainfall in ungauged areas: Spatial downscaling and error modelling"
+title: "Extremes, intermittency, and time directionality of atmospheric turbulence at the crossover from production to inertial scales"
 collection: publications
-permalink: /publication/zorzetto2020extreme
+permalink: /publication/zorzetto2018extreme
 excerpt: ''
-date: 2020-01-01
-venue: 'Advances in Water Resources'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0309170819309479'
-citation: 'Zorzetto, Enrico, and Marco Marani. "Extreme value metastatistical analysis of remotely sensed rainfall in ungauged areas: Spatial downscaling and error modelling." Advances in Water Resources 135 (2020): 103483.'
+date: 2018-09-10
+venue: 'Physical Review Fluids'
+paperurl: 'https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.3.094604'
+citation: 'Zorzetto, E., A. D. Bragg, and G. Katul. "Extremes, intermittency, and time directionality of atmospheric turbulence at the crossover from production to inertial scales." Physical Review Fluids 3.9 (2018): 094604.'
 ---
 

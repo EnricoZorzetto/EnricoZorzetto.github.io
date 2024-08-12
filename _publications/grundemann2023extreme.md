@@ -1,11 +1,11 @@
 ---
-title: "Effects of complex terrain on the shortwave radiative balance: a sub-grid-scale parameterization for the GFDL Earth System Model version 4.1"
+title: "Extreme precipitation return levels for multiple durations on a global scale"
 collection: publications
-permalink: /publication/zorzetto2023effects
+permalink: /publication/grundemann2023extreme
 excerpt: ''
-date: 2023-01-01
-venue: 'Geoscientific Model Development'
-paperurl: 'https://gmd.copernicus.org/articles/16/1937/2023/'
-citation: 'Zorzetto, Enrico, et al. "Effects of complex terrain on the shortwave radiative balance: a sub-grid-scale parameterization for the GFDL Earth System Model version 4.1." Geoscientific Model Development 16.7 (2023): 1937-1960.'
+date: 2023-06-15
+venue: 'Journal of Hydrology'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0022169423005000'
+citation: 'Gründemann, Gaby J., et al. "Extreme precipitation return levels for multiple durations on a global scale." Journal of Hydrology 621 (2023): 129558.'
 ---
 

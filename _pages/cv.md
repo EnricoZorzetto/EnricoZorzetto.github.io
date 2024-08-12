@@ -34,6 +34,8 @@ Professional experience
 
 Service and leadership
 ======
-* Reviewer
+* Reviewer for multiple journals in the fields of hydrology, hydrometeorology, land surface modelling.
 
-* SACNAS
+* Convener for scientific sessions at the AGU Fall Meeting ( Cryospheric Changes and Their Impact on the High-Mountain Water; Recent advances in aerosol representation and its impacts on climate, air quality and health, 2024.)
+
+* Undergraduate student mentor for SACNAS/Geofutures and Earthscope consortium.
