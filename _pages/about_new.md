@@ -1,18 +1,24 @@
 ---
 permalink: /
-title: "Hydrology and weather extremes in a changing climate"
+title: "Hydroclimatology lab at New Mexico Tech"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I study these topics. Here is a link to the [Hantush-Deju center for hydrologic innovation](https://www.nmt.edu/research/deju/index.php) and to the [Earth and Environmental Science department at New Mexico Tech](https://www.nmt.edu/academics/ees/).
+We are part of the [Hantush-Deju center for hydrologic innovation](https://www.nmt.edu/research/deju/index.php) and to the [Earth and Environmental Science department at New Mexico Tech](https://www.nmt.edu/academics/ees/).
 
-Research topics
+Current research topics
 ======
 
-I work on hydrology, rainfall, climate modelling, snow.
+1. Snow and its interactions with hydrological and climate processes
+2. Land surface modelling over complex terrain regions
+3. Statistics of hydrological extremes
+4. Geopatial statistics and downscaling of satellite observations
+
+
+<!---
 
 Get in touch
 ======
@@ -42,3 +48,6 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+
+-->
