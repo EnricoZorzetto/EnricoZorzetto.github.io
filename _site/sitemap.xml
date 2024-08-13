@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://localhost:4000/people/people-0/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/people/people-1/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/people/people-2/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/portfolio/portfolio-1/</loc>
 </url>
 <url>
@@ -79,20 +88,16 @@
 <lastmod>2024-01-01T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/talks/2012-03-01-talk-1</loc>
-<lastmod>2012-03-01T00:00:00-08:00</lastmod>
+<loc>http://localhost:4000/talks/NASA_HIMAT_WORKSHOP</loc>
+<lastmod>2023-02-01T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/talks/2013-03-01-tutorial-1</loc>
-<lastmod>2013-03-01T00:00:00-08:00</lastmod>
+<loc>http://localhost:4000/talks/AGU_2023</loc>
+<lastmod>2023-12-15T00:00:00-08:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/talks/2014-02-01-talk-2</loc>
-<lastmod>2014-02-01T00:00:00-08:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/talks/2014-03-01-talk-3</loc>
-<lastmod>2014-03-01T00:00:00-08:00</lastmod>
+<loc>http://localhost:4000/talks/NOAA_CVP_2024</loc>
+<lastmod>2024-04-22T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/teaching/2020-fall-teaching-3</loc>
@@ -132,6 +137,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page-archive/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/people/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/portfolio/</loc>
