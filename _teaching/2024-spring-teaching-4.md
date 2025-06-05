@@ -3,7 +3,7 @@ title: "Global Climate Change - GEOL 3040"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-apring-teaching-4
-venue: "University 1, Earth and Environmental Science"
+venue: "New Mexico Tech, Earth and Environmental Science"
 date: 2024-01-16
 location: "Socorro, New Mexico"
 ---

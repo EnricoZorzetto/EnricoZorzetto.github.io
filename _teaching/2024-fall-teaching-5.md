@@ -10,3 +10,5 @@ location: "Socorro, New Mexico"
 
 Graduate-level class [currently in preparation] focusing on applications on Bayesian statistical methods to problems in hydrology and environmental sciences, including statistics of extreme events, turbulence and statistical fluid mechanics, and time series frequency analysis.
 
+This class is part of the graduate certificate in hydrology at New Mexico tech, and is offered remotely during the fall semester.
+

@@ -4,4 +4,5 @@ excerpt: "PhD student, 2024-current"
 collection: people
 ---
 
-About me.
+Project: Evaluation of Earth System Model snow simulations in the Southwestern US and
+implications for future snow projections.
